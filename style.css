@@ -1,0 +1,19 @@
+.first-about{
+    margin:10% auto;
+
+}
+.first-img{
+    max-width: 100%;
+}
+.smart-color{
+    color: rgb(130, 36, 238);
+}
+.casual,.formal, footer{
+    margin-top: 60px;
+}
+.card-h{
+    height: 560px;
+}
+.bg-dark{
+    background-color: rgb(240, 240, 240) !important;
+}
